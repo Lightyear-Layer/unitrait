@@ -13,7 +13,7 @@ categories = [
 ]
 
 [dependencies]
-unitrait-macros = { version = "2.0.0", path = "../unitrait-macros" }
+unitrait-macros = { version = "2.0.0", path = "../unitrait-macros", registry = "kellnr" }
 
 [dev-dependencies]
 trybuild = "1.0"
